@@ -54,4 +54,4 @@ public class AntiCPvP extends JavaPlugin implements Listener {
             e.setCancelled(true);
         }
     }
-  }me.aris.anticpvp.AntiCPvP
+                }
