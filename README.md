@@ -1,0 +1,2 @@
+# Anticry
+Như cc
