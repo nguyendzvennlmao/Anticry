@@ -1,0 +1,9 @@
+name: AntiCPvP
+version: 1.0
+main: me.aris.anticpvp.AntiCPvP
+api-version: 1.20
+author: Aris
+
+permissions:
+  anticpvp.bypass:
+    default: op
